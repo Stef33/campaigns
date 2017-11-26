@@ -1,0 +1,6 @@
+This project allows a user to add a campaign to a campaign list or delete one from the list.
+
+If the user types the name of a brand in the input and clicks on the "Add a new campaign" button,
+the new campaign will be displayed in list below.
+
+If the user clicks on a checkbox before a displayed campaign and then clicks on the "remove campaign" link, the campaign will be deleted.
